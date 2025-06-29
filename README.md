@@ -2,6 +2,7 @@ Estatery - Real Estate Web Application
 🔗 Live Website: [https://estatery.vercel.app](https://react-estatery-t1ri.vercel.app/)
 🛠️ Tech Stack: React, Chakra UI, AOS, React Router, Framer Motion
 👨‍💻 Developer: Vikhyat Singh
+
 ✨ Core Highlights
 🏡 Elegant Home Page: Stunning hero section, animated stats, and professional layout
 👨‍💼 About Page: Team showcase, FAQ accordion, and animated contact form
@@ -50,9 +51,9 @@ React-Estatery/
 I love building beautiful, performant, and user-centric applications.
 
 Connect With Me:
-- LinkedIn: https://linkedin.com/in/yourprofile
+- LinkedIn: [https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/vikhyat-singh-03ap2004)
 - GitHub: https://github.com/Vikhyat0304
-- Email: vikhyatsingh@example.com
+- Email: vikhyat05252@gmail.com
 
 📃 License
 This project is open-source and available under the MIT License.
